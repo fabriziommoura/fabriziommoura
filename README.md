@@ -1,11 +1,11 @@
-### Olá! Eu sou a Gabrielly Sant'Ana, mais conhecida como GabiCode 👋
+### Olá! Eu sou Fabrízio, mais conhecida como WhiteBlade 👋
 <br>
 
-- 🔭 Estou trabalhando em Front-end e Desenvolvimento de Sofware.
+- 🔭 Estou trabalhando em Back-end e Desenvolvimento de Sofware.
 - 🌱 Estou aprendendo Linguagens de Engenharia de Software.
 - 💬 Me pergunte sobre Desenvolvimento web.
 - 📫 Como chegar até mim: Minhas redes sociais!
-- ⚡ Fato divertido: Amo ensinar :)
+- ⚡ Fato divertido: sei tocar piano
 <br><br>
 
 ### Linguagens
