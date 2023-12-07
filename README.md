@@ -17,12 +17,11 @@
   <summary>Skills</summary>
 
 - Problem Solving
-- Youtuber
-- Blogging
-- Web Content Writing
+- leadership
+- POO
+- Problem solving
 - Video Editing
-- Blogger
-- Researching $ Learning
+- Comunication
 </details>
 
 ### Linguagens
