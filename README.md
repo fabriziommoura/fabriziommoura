@@ -13,7 +13,17 @@
 - 💬 Me pergunte sobre Desenvolvimento web.
 - 📫 Como chegar até mim: Minhas redes sociais!
 - ⚡ Fato divertido: sei tocar piano
-<br><br>
+<details>
+  <summary>Skills</summary>
+
+- Problem Solving
+- Youtuber
+- Blogging
+- Web Content Writing
+- Video Editing
+- Blogger
+- Researching $ Learning
+</details>
 
 ### Linguagens
 <div style="display: inline_block">
@@ -33,7 +43,10 @@
   <img alt="Program Club" height="29" width="110" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
      <a href = "mailto:fabriziommoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a>
-<br><br><br>
+<br><br>
 <img align="left" src="" alt="" />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
+  </p>
+  
