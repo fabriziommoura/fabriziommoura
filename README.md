@@ -9,9 +9,9 @@
 <br>
 
 - 🔭 Estou trabalhando em Back-end e Desenvolvimento de Sofware.
-- 🌱 Estou aprendendo Linguagens de Engenharia de Software.
-- 💬 Me pergunte sobre Desenvolvimento web.
-- 📫 Como chegar até mim: Minhas redes sociais!
+- 🌱 Aprendendo Linguagens de Engenharia de Software.
+- 👽 Apaixonado por Block Chain e Criptografia
+- 📫 Como chegar até mim: @fabriziommoura
 - ⚡ Fato divertido: sei tocar piano
 <details>
   <summary>Skills</summary>
