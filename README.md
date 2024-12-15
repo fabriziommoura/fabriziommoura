@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-### Olá! Eu sou Fabrízio, mais conhecida como WhiteBlade 👋
+### Olá! Eu sou Fabrízio👋
 <br>
 
 - 🔭 Estou trabalhando em Back-end e Desenvolvimento de Sofware.
